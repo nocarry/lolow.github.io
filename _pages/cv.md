@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* DESS in Applied Mathematics, Institut des Mathématiques Appliquées, Angers, 2002
+* Ph.D, University of Geneva, Switzerland, 2006
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2006-2009: Post-doctoral Fellow at REME, EPFL, Lausanne, Switzerland
+
+* 2006-2009: Consulting activities at ORDECSYS, Chêne-Bourg, Switzerland
+
+* 2009-2012: Post-doctoral Fellow at CRTE, CRP Henri Tudor, Esch-Sur-Alzette, Luxembourg
+
+* 2012- : Senior Researcher at MITP, Fondazione Eni Enrico Mattei, Milan, Italy
+  * FP7 project LIMITS (Low climate impact scenarios and the implications of required tight emission control strategies) 
+  * FP7 project ADVANCE (Advanced model development and validation for the improved analysis of costs and impacts of mitigation policies) 
+  * Developement of the WITCH integrated assessment model
+
+* 2012- : Affiliate Researcher at ECIP, Centro Euro-Mediterraneo sui Cambiamenti Climatici, Milan, Italy
+  * H2020 project CD-LINKS (Linking Climate and Development policies ---
+                  Leveraging International Network and Knowledge Sharing) 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Applied Mathematics
+  * Optimization : non-differentiable optimization, continuous optimization
+  * Statistics: R language, probabilistic methods
+  * Computer science: software developement in C/C++, Python, Ruby, java...
+* Modelling language: GAMS, AMPL, pyomo
+* Operating systems: linux, windows, MAC OS X
+* Languages: French (mother tongue), portuguese, italian, german
 
 Publications
 ======
@@ -42,18 +48,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
