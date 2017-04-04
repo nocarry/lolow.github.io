@@ -1,5 +1,5 @@
 ---
-title: "A multi-model assessment of the co-benefits of climate mitigationfor global air quality"
+title: "A multi-model assessment of the co-benefits of climate mitigation for global air quality"
 collection: publications
 permalink: /publications/2016-12-02-a-multi-model-assessment-of-the-co-benefits-of-climate-mitigation-for-global-air-quality
 venue: "Environmental Research Letters"
