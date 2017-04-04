@@ -72,7 +72,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          : "UA-96753080-1"
 
 
 # Site Author
@@ -83,7 +83,7 @@ author:
   location         : "Milan, Italy"
   employer         : "FEEM"
   googlescholar    : "https://scholar.google.fr/citations?user=Wxo3rR4AAAAJ"
-  email            : "ldrouet@gmail.com"
+  email            : "ldrouet at gmail"
   uri              : 
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   google_plus      :
   keybase          :
   instagram        : 
-  lastfm           :
+  lastfm           : "lolow"
   linkedin         : "laurent-drouet"
   orcid            : "https://orcid.org/0000-0002-4087-7662"
   pinterest        :
@@ -107,7 +107,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        : 
 
 
