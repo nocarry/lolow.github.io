@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2016-12-02-a-multi-model-assessment-of-the-co-benefits-of-climate-mitigation-for-global-air-quality
 venue: "Environmental Research Letters"
 excerpt: 'We present an overview of the Shared Socioeconomic Pathways (SSPs), which were developed as a community effort over the last years'
-date: 2017-01-01
+date: 2016-12-02
 paperurl: http://iopscience.iop.org/article/10.1088/1748-9326/11/12/124013/meta
 citation: 'Rao, S, Klimont, Z, Leitao, J, Riahi, K, van Dingenen, R, Reis, LA, Calvin, K, Dentener, F, Drouet, L, Fujimori, S, Harmsen, M, Luderer, G, Heyes, C, Strefler, J, Tavoni, M, van Vuuren, DP. "A multi-model assessment of the co-benefits of climate mitigation for global air quality." <i>Environmental Research Letters</i>. 11, 124013, 2016.'
 ---
