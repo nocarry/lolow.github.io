@@ -5,7 +5,7 @@ permalink: /publications/2006-10-27-the-coupling-of-optimal-economic-growth-and-
 venue: "Climatic Change"
 excerpt: 'In this paper, we study optimal economic growth programs coupled with climate change dynamics.'
 date: 2006-10-27
-paperurl: http://iopscience.iop.org/article/10.1088/1748-9326/11/12/124013/meta
+paperurl: http://lolow.github.io/files/Bahn2006_coupling_climate_economy.pdf
 citation: 'Bahn O, Drouet L, Edwards NR, Haurie A, Knutti R, Kypreos S, Stocker TF, Vial JP. "The coupling of optimal economic growth and climate dynamics." <i>Climatic Change</i>. 79, 103-119, 2006.'
 ---
 
