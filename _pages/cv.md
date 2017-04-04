@@ -35,7 +35,7 @@ Work experience
 Skills
 ======
 * Applied Mathematics
-  * Optimization : non-differentiable optimization, continuous optimization
+  * Optimization : non-differentiable, continuous, large-scale problems
   * Statistics: R language, probabilistic methods
   * Computer science: software developement in C/C++, Python, Ruby, java...
 * Modelling language: GAMS, AMPL, pyomo
