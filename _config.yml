@@ -81,14 +81,14 @@ author:
   avatar           : "profile_ld.png"
   bio              : "Research Affiliate at CMCC and Senior Researcher at FEEM, Milan, Italy. Integrated assessment modeling. Climate policy assessment."
   location         : "Milan, Italy"
-  employer         : 
+  employer         : "FEEM"
   googlescholar    : "https://scholar.google.fr/citations?user=Wxo3rR4AAAAJ"
-  email            : 
+  email            : "ldrouet@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "lolow"
   facebook         : 
   foursquare       :
   github           : "lolow"
@@ -97,7 +97,7 @@ author:
   instagram        : 
   lastfm           :
   linkedin         : "laurent-drouet"
-  orcid            : "0000-0002-4087-7662"
+  orcid            : "https://orcid.org/0000-0002-4087-7662"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
