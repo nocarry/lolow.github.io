@@ -1,9 +1,11 @@
 #language: ruby
-#rvm:
-#- 2.1
+
 #script: "bundle exec jekyll build"
 #
 language: ruby
+
+rvm:
+  - 2.1
 
 install:
   # Install binary pandoc from Rstudio
