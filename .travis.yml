@@ -17,7 +17,7 @@ install:
   # - pandoc --version
 
   # Install Jekyll and dependencies
-  - bundle install --without jekyll_plugins
+  - bundle install
 
 script: bundle exec rake site:deploy --quiet
 
