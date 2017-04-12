@@ -6,7 +6,7 @@ venue: "Climatic Change"
 excerpt: 'We assess emission trajectories and the energy system transition of 11 major economies projected by integrated assessment models for baseline and cost-optimal 450 ppm CO2 eq mitigation scenarios and compare the results with the (I)NDCs'
 date: 2017-05-01
 paperurl: 
-citation: 'van Soest HL, Aleluia Reis L, Drouet L <i>et al.</i>. "Low-emission pathways in 11 major economies: comparison of cost-optimal pathways and Paris climate proposals". <i>Climatic Change</i>. online, 2017.'
+citation: 'van Soest HL, Aleluia Reis L, Drouet L <i>et al.</i>. "Low-emission pathways in 11 major economies: comparison of cost-optimal pathways and Paris climate proposals". <i>Climatic Change</i>. accepted, 2017.'
 ---
 
 ## Abstract
