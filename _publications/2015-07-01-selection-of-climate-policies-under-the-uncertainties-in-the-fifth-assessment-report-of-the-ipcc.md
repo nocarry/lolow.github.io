@@ -3,7 +3,7 @@ title: "Selection of climate policies under the uncertainties in the Fifth Asses
 collection: publications
 permalink: /publications/2015-07-01-selection-of-climate-policies-under-the-uncertainties-in-the-fifth-assessment-report-of-the-ipcc
 venue: "Nature Climate Change"
-excerpt: 'We employ the best available knowledge so far, summarized by the three working groups of the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, to quantify the uncertainty of mitigation costs, climate change dynamics, and economic damage for alternative carbon budgets.'
+excerpt: 'We employ the best available knowledge so far, summarized by the three working groups of the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, to quantify the uncertainty of mitigation costs, climate change dynamics, and economic damage for alternative carbon budgets.<img src='/images/Drouet2015_cbudget.png'>'
 date: 2015-07-01
 paperurl: http://www.nature.com/nclimate/journal/v5/n10/full/nclimate2721.html
 citation: 'Drouet L, Bosetti V, Tavoni, M. "Selection of climate policies under the uncertainties in the Fifth Assessment Report of the IPCC." <i>Nature Climate Change</i>. 5, 937-940, July 2015.'
