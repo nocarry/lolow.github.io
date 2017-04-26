@@ -6,7 +6,7 @@ venue: "Global Environmental Change"
 excerpt: 'New generation of global long-term air pollution scenarios guided by the narratives consistent with the past air pollution policy experience and SSP storylines'
 date: 2017-01-01
 paperurl: http://lolow.github.io/files/Rao2017_SSP_air_pollution.pdf
-citation: 'Rao, S, Klimont, Z, Smith, SJ <i>et al.</i>. "Future air pollution in the Shared Socio-economic Pathways." <i>Global Environmental Change</i>. 42, 346-358, January 2017.'
+citation: 'Rao S, Klimont Z, Smith SJ <i>et al.</i>. "Future air pollution in the Shared Socio-economic Pathways." <i>Global Environmental Change</i>. 42, 346-358, January 2017.'
 ---
 
 ## Abstract

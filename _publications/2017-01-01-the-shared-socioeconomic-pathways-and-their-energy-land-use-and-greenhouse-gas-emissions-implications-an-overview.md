@@ -6,7 +6,7 @@ venue: "Global Environmental Change"
 excerpt: 'We present an overview of the Shared Socioeconomic Pathways (SSPs), which were developed as a community effort over the last years'
 date: 2017-01-01
 paperurl: http://lolow.github.io/files/Riahi2017_SSP_overview.pdf
-citation: 'Riahi, K, van Vuuren, D, Kriegler, E <i>et al.</i>. "The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview." <i>Global Environmental Change</i>. 42, 153-168, January 2017.'
+citation: 'Riahi K, van Vuuren D, Kriegler E <i>et al.</i>. "The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview." <i>Global Environmental Change</i>. 42, 153-168, January 2017.'
 ---
 
 ## Abstract
