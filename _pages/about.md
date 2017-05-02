@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of my website
+Coming soon…
 
