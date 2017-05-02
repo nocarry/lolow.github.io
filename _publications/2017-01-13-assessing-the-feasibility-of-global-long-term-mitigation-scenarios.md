@@ -6,7 +6,7 @@ venue: "Energies"
 excerpt: 'This study explores the critical notion of how feasible it is to achieve long-term mitigation goals to limit global temperature change'
 date: 2017-01-13
 paperurl: http://lolow.github.io/files/Gambhir2017_Feasibility_LTS.pdf
-citation: 'Gambhir, A, Drouet, L, McCollum, D <i>et al.</i>. "Assessing the Feasibility of Global Long-Term Mitigation Scenarios". <i>Energies</i>. 10(1), 89, 2017.'
+citation: 'Gambhir A, Drouet L, McCollum D <i>et al.</i>. "Assessing the Feasibility of Global Long-Term Mitigation Scenarios". <i>Energies</i>. 10(1), 89, 2017.'
 ---
 
 ## Abstract
